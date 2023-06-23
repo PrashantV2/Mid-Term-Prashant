@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mid
 {
-    internal static class PixelCalc
+     public static class PixelCalc
     {
         public static Dictionary<string, double> PixelCalcFunction(double height, double width, double diagnal)
         {
